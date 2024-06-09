@@ -1,0 +1,5 @@
+# Art. 58octies
+[Art. 58octies – Der Deutschsprachigen Gemeinschaft wird eine Dotation als Ausgleich für die Rundfunk- und Fernsehgebühr gewährt.
+Den Basisbetrag für diese Dotation bildet der Durchschnitt des in den Haushaltsjahren 1999 bis einschließlich 2001 in der Deutschsprachigen Gemeinschaft lokalisierten Nettoertrags aus den Rundfunk- und Fernsehgebühren, und zwar unter Anwendung des in Artikel 5 §2 Nummer 9 des Finanzierungsgesetzes festgelegten Lokalisierungskriteriums. Der Nettoertrag wird in Preisen von 2002 ausgedrückt.
+Für die Haushaltsjahre 2003 bis einschließlich 2014 und für das Haushaltsjahr 2015, aber nur hinsichtlich der Festlegung der in den Artikeln 58nonies und 58decies erwähnten Basisbeträge, wird der in Anwendung von Absatz 2 ermittelte Betrag jährlich nach den in Artikel 38 §3 des Finanzierungsgesetzes festgelegten Modalitäten der Schwankungsrate des durchschnittlichen Verbraucherpreisindexes des betreffenden Haushaltsjahres angeglichen.
+Die in Absatz 1 erwähnte Dotation setzt sich aus einem Teil des Ertrags aus der in Artikel 7 des Finanzierungsgesetzes erwähnten föderalen Steuer der natürlichen Personen zusammen.]

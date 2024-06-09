@@ -1,0 +1,5 @@
+# Art. 60sexies
+[Art. 60sexies – §1 – Artikel 68quinquies §1 des Finanzierungsgesetzes ist auf die Deutschsprachige Gemeinschaft entsprechend anwendbar.
+§2 – Die Ausgaben, die von den Einrichtungen, die gemäß Artikel 94 §1bis des Sondergesetzes spätestens bis zum 31. Dezember 2019 mit der Verwaltung und Auszahlung der Familienbeihilfen beauftragt sind, getätigt werden und zu Lasten der Deutschsprachigen Gemeinschaft gehen, werden jährlich auf die in den Artikeln 58terdecies und 58sexdecies erwähnten Dotationen angerechnet.
+Für die in Artikel 54 §1 Absatz 5 des Finanzierungsgesetzes vorgesehene Zahlung der Vorschüsse wird der Schätzung dieser Ausgaben Rechnung getragen.
+§3 – Die in Artikel 94 §1ter des Sondergesetzes erwähnte Vergütung beläuft sich auf 80 % der Eigenanteile für die in Artikel 5 §1 römisch I Absatz 1 Nummer 3 bis 5 des Sondergesetzes erwähnten Pflegeleistungen. Sie ist von der Deutschsprachigen Gemeinschaft zu zahlen, wenn die Leistungsempfänger im Bevölkerungsregister einer Gemeinde des deutschen Sprachgebiets eingetragen sind. Diese Vergütung wird von der in Artikel 58quindecies erwähnten Dotation abgezogen.]

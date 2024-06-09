@@ -1,0 +1,2 @@
+# Art. 54bis
+Art. 54bis – Im Hinblick auf die Ausübung der durch die Verfassung zugewiesenen Befugnisse werden der Deutschsprachigen Gemeinschaft die Personalmitglieder [des in Artikel 24 der Verfassung erwähnten]und vom Staat organisierten Unterrichtswesens, der Fonds und der Inspektionsdienste, auf die sich das Gesetz vom 29. Mai 1959 zur Abänderung bestimmter Rechtsvorschriften im Unterrichtswesen bezieht, übertragen. Artikel 91bis §2 des Sondergesetzes ist auf die Deutschsprachige Gemeinschaft entsprechend anwendbar.]

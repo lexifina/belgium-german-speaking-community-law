@@ -1,0 +1,11 @@
+{
+  "path": "be-dg",
+  "code": "BE-DG",
+  "name": "German-speaking Community of Belgium",
+  "level": "community",
+  "parent": "be",
+  "repo": "https://github.com/lexifina/belgium-german-speaking-community-law",
+  "build": "built: current text of 9 basic acts from the Parliament's Rechtsgrundlagen",
+  "language": "de",
+  "sources": 1
+}

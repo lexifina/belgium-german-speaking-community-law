@@ -1,0 +1,131 @@
+{
+ "country": "BE-DG",
+ "acts": [
+  {
+   "slug": "gesetz-1983-12-31",
+   "short": "gesetz-1983-12-31",
+   "title": "31. DEZEMBER 1983 GESETZ ÜBER INSTITUTIONELLE REFORMEN FÜR DIE DEUTSCHSPRACHIGE GEMEINSCHAFT",
+   "url": "https://pdg.be/desktopdefault.aspx/tabid-4037/",
+   "versions": [
+    {
+     "from": "2024-06-09",
+     "units": 99,
+     "source_url": "https://pdg.be/DownloadCount.aspx?raid=219863&docid=93582&rn=60743447-82e0-40b8-ba90-8f6e9c0c3f9f",
+     "sha256": "05e1534696f73f72d0184b8a470b4251cd977d1e514916e65e039194a51944a4"
+    }
+   ]
+  },
+  {
+   "slug": "dekret-1994-01-17",
+   "short": "dekret-1994-01-17",
+   "title": "17. JANUAR 1994 – DEKRET ZWECKS AUSÜBUNG DER BEFUGNISSE DER WALLONISCHEN REGION IN DER ANGELEGENHEIT „DENKMÄLER UND LANDSCHAFTEN“ DURCH DIE DEUTSCHSPRACHIGE GEMEINSCHAFT",
+   "url": "https://pdg.be/desktopdefault.aspx/tabid-4037/",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 5,
+     "source_url": "https://pdg.be/DownloadCount.aspx?raid=219864&docid=93583&rn=25be7380-89d4-4980-804e-e7992d108f71",
+     "sha256": "f85f354601b847c42156c8a098c58d979862d26675a23381ad97cda7d1eb0871"
+    }
+   ]
+  },
+  {
+   "slug": "dekret-1999-05-10",
+   "short": "dekret-1999-05-10",
+   "title": "10. MAI 1999 – DEKRET ZUR AUSÜBUNG DER BEFUGNISSE DER WALLONISCHEN REGION IN DEN ANGELEGENHEITEN BESCHÄFTIGUNG UND AUSGRABUNGEN DURCH DIE DEUTSCHSPRACHIGE GEMEINSCHAFT",
+   "url": "https://pdg.be/desktopdefault.aspx/tabid-4037/",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 18,
+     "source_url": "https://pdg.be/DownloadCount.aspx?raid=219864&docid=93583&rn=25be7380-89d4-4980-804e-e7992d108f71",
+     "sha256": "f85f354601b847c42156c8a098c58d979862d26675a23381ad97cda7d1eb0871"
+    }
+   ]
+  },
+  {
+   "slug": "dekret-2004-06-01",
+   "short": "dekret-2004-06-01",
+   "title": "1. JUNI 2004 – DEKRET ÜBER DIE AUSÜBUNG GEWISSER ZUSTÄNDIGKEITEN DER WALLONISCHEN REGION IM BEREICH DER UNTERGEORDNETEN BEHÖRDEN DURCH DIE DEUTSCHSPRACHIGE GEMEINSCHAFT",
+   "url": "https://pdg.be/desktopdefault.aspx/tabid-4037/",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 7,
+     "source_url": "https://pdg.be/DownloadCount.aspx?raid=219864&docid=93583&rn=25be7380-89d4-4980-804e-e7992d108f71",
+     "sha256": "f85f354601b847c42156c8a098c58d979862d26675a23381ad97cda7d1eb0871"
+    }
+   ]
+  },
+  {
+   "slug": "dekret-2014-03-31",
+   "short": "dekret-2014-03-31",
+   "title": "31. MÄRZ 2014 – DEKRET ÜBER DIE AUSÜBUNG DER ZUSTÄNDIGKEITEN DER WALLONISCHEN REGION IM BEREICH DES TOURISMUS DURCH DIE DEUTSCHSPRACHIGE GEMEINSCHAFT",
+   "url": "https://pdg.be/desktopdefault.aspx/tabid-4037/",
+   "versions": [
+    {
+     "from": "2014-07-01",
+     "units": 4,
+     "source_url": "https://pdg.be/DownloadCount.aspx?raid=219864&docid=93583&rn=25be7380-89d4-4980-804e-e7992d108f71",
+     "sha256": "f85f354601b847c42156c8a098c58d979862d26675a23381ad97cda7d1eb0871"
+    }
+   ]
+  },
+  {
+   "slug": "dekret-2015-12-15",
+   "short": "dekret-2015-12-15",
+   "title": "15. DEZEMBER 2015 – DEKRET ZUR ABÄNDERUNG VERSCHIEDENER DEKRETE IM HINBLICK AUF DIE AUSÜBUNG GEWISSER BEFUGNISSE DER WALLONISCHEN REGION IN DEN ANGELEGENHEITEN BESCHÄFTIGUNG UND DENKMALSCHUTZ DURCH DIE DEUTSCHSPRACHIGE GEMEINSCHAFT",
+   "url": "https://pdg.be/desktopdefault.aspx/tabid-4037/",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 12,
+     "source_url": "https://pdg.be/DownloadCount.aspx?raid=219864&docid=93583&rn=25be7380-89d4-4980-804e-e7992d108f71",
+     "sha256": "f85f354601b847c42156c8a098c58d979862d26675a23381ad97cda7d1eb0871"
+    }
+   ]
+  },
+  {
+   "slug": "dekret-2019-04-29-energie",
+   "short": "dekret-2019-04-29-energie",
+   "title": "29. APRIL 2019 – DEKRET ÜBER DIE AUSÜBUNG GEWISSER ZUSTÄNDIGKEITEN DER WALLONISCHEN REGION IM BEREICH DER ENERGIE DURCH DIE DEUTSCHSPRACHIGE GEMEINSCHAFT",
+   "url": "https://pdg.be/desktopdefault.aspx/tabid-4037/",
+   "versions": [
+    {
+     "from": "2020-01-01",
+     "units": 6,
+     "source_url": "https://pdg.be/DownloadCount.aspx?raid=219864&docid=93583&rn=25be7380-89d4-4980-804e-e7992d108f71",
+     "sha256": "f85f354601b847c42156c8a098c58d979862d26675a23381ad97cda7d1eb0871"
+    }
+   ]
+  },
+  {
+   "slug": "dekret-2019-04-29-raumordnung",
+   "short": "dekret-2019-04-29-raumordnung",
+   "title": "29. APRIL 2019 – DEKRET ÜBER DIE AUSÜBUNG DER ZUSTÄNDIGKEITEN DER WALLONISCHEN REGION IM BEREICH DER RAUMORDNUNG UND GEWISSER VERBUNDENER BEREICHE DURCH DIE DEUTSCHSPRACHIGE GEMEINSCHAFT",
+   "url": "https://pdg.be/desktopdefault.aspx/tabid-4037/",
+   "versions": [
+    {
+     "from": "2020-01-01",
+     "units": 7,
+     "source_url": "https://pdg.be/DownloadCount.aspx?raid=219864&docid=93583&rn=25be7380-89d4-4980-804e-e7992d108f71",
+     "sha256": "f85f354601b847c42156c8a098c58d979862d26675a23381ad97cda7d1eb0871"
+    }
+   ]
+  },
+  {
+   "slug": "dekret-2019-04-29-wohnungswesen",
+   "short": "dekret-2019-04-29-wohnungswesen",
+   "title": "29. APRIL 2019 – DEKRET ÜBER DIE AUSÜBUNG DER ZUSTÄNDIGKEITEN DER WALLONISCHEN REGION IM BEREICH DES WOHNUNGSWESENS DURCH DIE DEUTSCHSPRACHIGE GEMEINSCHAFT",
+   "url": "https://pdg.be/desktopdefault.aspx/tabid-4037/",
+   "versions": [
+    {
+     "from": "2020-01-01",
+     "units": 8,
+     "source_url": "https://pdg.be/DownloadCount.aspx?raid=219864&docid=93583&rn=25be7380-89d4-4980-804e-e7992d108f71",
+     "sha256": "f85f354601b847c42156c8a098c58d979862d26675a23381ad97cda7d1eb0871"
+    }
+   ]
+  }
+ ]
+}

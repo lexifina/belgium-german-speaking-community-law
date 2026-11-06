@@ -1,5 +1,7 @@
 # German-speaking Community of Belgium: law in git
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is the law of German-speaking Community of Belgium, Belgium, which global-law reads at `belgium/german-speaking-community/acts/`.
+
 The law of the German-speaking Community of Belgium (Deutschsprachige Gemeinschaft, Ostbelgien) in git: one file per article, in the form the Community's Parliament publishes it. `git blame` and `tools/on.py` work as in the other repositories of the shared design.
 
 It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law), which places it at `be-dg/`. The federal law is in [lexifina/belgium-law](https://github.com/lexifina/belgium-law).

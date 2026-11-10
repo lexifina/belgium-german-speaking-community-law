@@ -1,0 +1,16 @@
+{
+"layout": "<kind>/<year>/<number>",
+"since": "2026-11-10",
+"note": "Act folders before the layout move were named by the act id (slug); paths maps each id to its folder. Ids not placed by the rule keep their folder.",
+"paths": {
+"dekret-1994-01-17": "dekret/1994/01-17",
+"dekret-1999-05-10": "dekret/1999/05-10",
+"dekret-2004-06-01": "dekret/2004/06-01",
+"dekret-2014-03-31": "dekret/2014/03-31",
+"dekret-2015-12-15": "dekret/2015/12-15",
+"dekret-2019-04-29-energie": "dekret/2019/04-29-energie",
+"dekret-2019-04-29-raumordnung": "dekret/2019/04-29-raumordnung",
+"dekret-2019-04-29-wohnungswesen": "dekret/2019/04-29-wohnungswesen",
+"gesetz-1983-12-31": "gesetz/1983/12-31"
+}
+}
